@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ultralytics / training outputs
+runs/
+*.pt
+*.onnx
+*.engine
+*.torchscript
+
+# YOLO datasets
+yolo_dataset/
+datasets/
+train_images/
+test_images/
+*.cache
+
+# Experiment outputs
+results/
+outputs/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
