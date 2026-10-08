@@ -1,0 +1,10 @@
+path: /path/to/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: pitted_surface
+  1: crazing
+  2: scratches
+  3: patches
