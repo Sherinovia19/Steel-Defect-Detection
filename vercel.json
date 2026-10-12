@@ -1,10 +1,5 @@
 {
-  "version": 2,
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": null,
-  "outputDirectory": ".",
-  "functions": {
-    "api/detect.js": {
-      "runtime": "@vercel/node"
-    }
-  }
+  "outputDirectory": "."
 }
